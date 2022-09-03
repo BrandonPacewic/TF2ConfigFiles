@@ -14,7 +14,7 @@ My personal team fortress 2 game config files.
 
 ## Installing
 
-1. Dowload the custom files here.
+1. Dowload the custom files zip [here](https://github.com/BrandonPacewic/TF2ConfigFiles/releases/tag/v1.0).
 
 2. Merge the `tf` folder into your own `tf` game folder. 
 
