@@ -6,6 +6,7 @@ My personal team fortress 2 game config files.
 
 - Keybinds are configured for the Davorak keyboard layout.
 - Some class binds are changed completely (See engineer.cfg and spy.cfg).
+- 800 dpi.
 - Game launch options:
 
 ```Text
